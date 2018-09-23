@@ -1,0 +1,23 @@
+﻿body{
+    background-image: url(Images/Stock-Tracking-Index.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+}
+
+h1, h3, p{
+    color: white;
+    border-color: #000000;
+}
+
+.fundInfo{
+    margin-left: 50%;
+    position: absolute;
+    margin-right: 10%;
+    font: bold;
+    font-size: 26px;
+    margin-top: -25%;
+}
+
+chart1{
+    margin-left: 20%;
+}
